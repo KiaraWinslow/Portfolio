@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 align=CENTER>Kiara Winslow</h1> 
+
+<a href="https://www.linkedin.com/mynetwork/"> LinkedIn Profile</a> <p> Email: Kiarawinslow@gmail.com</p>
+
+<p>About Me:</p>
+<p>Bio</p>
+<p>-I am a 15 year old rising Junior at Alameda Science and Technology Institute in Alameda, California. I attend highschool and college courses simultaneously, in hopes of fufilling the general education requirements of a U.C. in order to transfer in a Junior. I am currently involved in the Girls Who Code Summer Immersion Program hosted at Workday. </p>
+<p>Likes and Dislikes:</p>
+<p>Fun Fact:</p>
+
+<style>
+body {
+    background-color: lightblue;
+}
+
+body {
+	color:Black
+
+
+</body>
+</html>
