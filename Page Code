@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<style>
+	h1 {
+    font-family: courier;
+    text-align: center;
+    }
+    
+</style>
+
 <title>Page Title</title>
 </head>
 <body>
+<h1>Kiara Winslow</h1> 
 
-<h1 align=CENTER>Kiara Winslow</h1> 
 <hr>
 
 
@@ -15,11 +24,11 @@
 <p> Email: Kiarawinslow@gmail.com</p>
 
 <p>About Me:</p>
-<p>Bio:
+<p align=CENTER>Bio:
 -I am a 15 year old rising Junior at Alameda Science and Technology Institute in Alameda, California. I attend highschool and college courses simultaneously, in hopes of fufilling the general education requirements of a U.C. in order to transfer in a Junior. I am currently involved in the Girls Who Code Summer Immersion Program hosted at Workday. </p>
-<p>Likes: reading, </p>
-<p>Dislikes: </p>
-<p>Fun Fact:</p>
+<p align=CENTER>Likes: Reading, food, Netflix, food,  </p>
+<p align=CENTER>Dislikes: </p>
+<p align=CENTER>Fun Fact:</p>
 
 <a href="https://scratch.mit.edu/projects/166757435/">Paddleball Game</a>
 <br>
@@ -31,7 +40,7 @@
 
 <style>
 body {
-    background-color: lightblue;
+    background-color: #FAF2FF;
 }
 
 body {
