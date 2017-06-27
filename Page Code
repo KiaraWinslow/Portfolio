@@ -9,8 +9,8 @@
 <hr>
 
 
-<a href="https://www.linkedin.com/mynetwork/"> LinkedIn Profile</a> 
-
+<a align=CENTER href="https://www.linkedin.com/mynetwork/"> LinkedIn Profile</a> 
+<br>
 <a href="https://github.com/KiaraWinslow"> Github</a>
 <p> Email: Kiarawinslow@gmail.com</p>
 
@@ -20,7 +20,15 @@
 <p>Likes: reading, </p>
 <p>Dislikes: </p>
 <p>Fun Fact:</p>
+
+<a href="https://scratch.mit.edu/projects/166757435/">Paddleball Game</a>
+<br>
 <img src="ScreensShot.jpg" alt="screenshot" style="width:304px;height:228px;"> 
+<br>
+<a href="https://scratch.mit.edu/projects/167109967/">Cloud Jumper</a>
+<br>
+<img src="ScreensShot2.png" alt="screenshot2" style="width:304px;height:228px;"> 
+
 <style>
 body {
     background-color: lightblue;
