@@ -15,12 +15,12 @@
 <p> Email: Kiarawinslow@gmail.com</p>
 
 <p>About Me:</p>
-<p>Bio</p>
-<p>-I am a 15 year old rising Junior at Alameda Science and Technology Institute in Alameda, California. I attend highschool and college courses simultaneously, in hopes of fufilling the general education requirements of a U.C. in order to transfer in a Junior. I am currently involved in the Girls Who Code Summer Immersion Program hosted at Workday. </p>
-<p>Likes and Dislikes:</p>
-<p> I like reading 
+<p>Bio:
+-I am a 15 year old rising Junior at Alameda Science and Technology Institute in Alameda, California. I attend highschool and college courses simultaneously, in hopes of fufilling the general education requirements of a U.C. in order to transfer in a Junior. I am currently involved in the Girls Who Code Summer Immersion Program hosted at Workday. </p>
+<p>Likes: reading, </p>
+<p>Dislikes: </p>
 <p>Fun Fact:</p>
-
+<img src="ScreensShot.jpg" alt="screenshot" style="width:304px;height:228px;"> 
 <style>
 body {
     background-color: lightblue;
@@ -28,7 +28,11 @@ body {
 
 body {
 	color:Black
-
+}
+p.three {
+    border-style: dotted;
+    border-width: 2px;
+}
 
 </body>
 </html>
