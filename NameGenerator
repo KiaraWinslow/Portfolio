@@ -1,0 +1,20 @@
+from random import *
+
+GoOn = True
+
+word_list = ["Champagne", "Papi","iPhone","Chocolate", "Savage", "Lit", "Hype",
+"Chill","Bad"]
+word_list2 = ["Hipster","Location","Bar","Living","Wave", "Coffee", "Boujee",
+"Barbie","Mac"]
+
+while GoOn:
+    #Generates a random integer.
+    x = randint(0, len(word_list)-1)
+    y = randint (0, len(word_list2)-1)
+
+    print (word_list[x]+" "+ word_list2[y])
+
+    QUESTION = input("Would you like a new name ?")
+    if QUESTION =="no":
+        GoOn = False
+        print ("Bye then.")
